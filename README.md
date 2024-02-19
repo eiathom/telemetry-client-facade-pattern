@@ -1,6 +1,6 @@
-# node-typescript-npm-library-template
+# telemetry-client-facade-pattern
 
-Template for building Node TypeScript NPM libraries.
+ Experiment with many potential telemetry client by leveraging facade pattern.
 
 # Developing
 
